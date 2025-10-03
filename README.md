@@ -84,19 +84,19 @@ The **Product Details Dashboard** focuses on individual product performance:
 
 ### 🧭 Overview Dashboard
 
-![Overview Dashboard]([images/overview_dashboard.png](https://github.com/Rishabh1108ch/-Sales-and-Marketing-Analysis/blob/main/1.%20Power%20BI%20Screenshot%20%20Overview%20Page.png))
+![Overview Dashboard](https://github.com/Rishabh1108ch/-Sales-and-Marketing-Analysis/blob/main/1.%20Power%20BI%20Screenshot%20%20Overview%20Page.png))
 
 ---
 
 ### 📦 Product Details Dashboard
 
-![Product Details Dashboard](images/product_details_dashboard.png)
+![Product Details Dashboard](https://github.com/Rishabh1108ch/-Sales-and-Marketing-Analysis/blob/main/2.%20Power%20BI%20Screenshot%20Product%20Details.png))
 
 ---
 
 ## 🧰 Tools Used
 
-- 📊 Power BI / Tableau / Excel *(specify what you used)*
+- 📊 Power BI / Tableau / Excel
 - 🖼️ Dashboard Screenshots
 - 📝 Markdown for documentation
 
